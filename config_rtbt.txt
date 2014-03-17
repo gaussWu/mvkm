@@ -1,0 +1,4 @@
+[DATASET] rtbt 
+[PARAS] 0.001 2 100 
+[GROUPS] 0 ; 1 
+[INTERACTS] 1; 0
